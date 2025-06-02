@@ -12,6 +12,6 @@ A comprehensive repository for building and understanding digital payment system
 
 ## Folder Structure
 
-- `documentation/` – Contains detailed PDFs (min. 5 pages each) with diagrams, tables, and references.
+- `real-time-payments/` – Contains detailed flow for Real Time Payment Network anf Flows.
 
 This repository is ideal for fintech architects, developers, and compliance professionals.
